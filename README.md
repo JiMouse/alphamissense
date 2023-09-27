@@ -1,2 +1,4 @@
 # alphamissense
-allow easy query of alphamissense without admin access
+Allow easy query of alphamissense without admin access.
+This is a very simple code in order to query alphamissense database without admin privilege. 
+I did'nt find anything else yet except VEP plugin.
